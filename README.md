@@ -7,10 +7,10 @@ Desenvolvido como parte da Imersão IA da Alura com o Google, este projeto utili
 Funcionalidades Implementadas (MVP)
 Atualmente, o assistente oferece as seguintes funcionalidades básicas:
  - Criação de Aulas e Conteúdo:
-    Recebe o tópico, série/nível e objetivos de aprendizagem.
-    Utiliza um agente especializado (agente_planejador_aula) para gerar uma estrutura de plano de aula detalhada.
-    Utiliza outro agente (agente_gerador_conteudo) para gerar um rascunho do conteúdo da aula com base no plano.
-    Ambos os agentes utilizam a ferramenta Google Search para buscar informações e recursos relevantes.
+   -- Recebe o tópico, série/nível e objetivos de aprendizagem.
+   -- Utiliza um agente especializado (agente_planejador_aula) para gerar uma estrutura de plano de aula detalhada.
+   -- Utiliza outro agente (agente_gerador_conteudo) para gerar um rascunho do conteúdo da aula com base no plano.
+   -- Ambos os agentes utilizam a ferramenta Google Search para buscar informações e recursos relevantes.
 
  - Preparação de Provas e Avaliações:
     Recebe o tópico, série/nível, tipo de questão, nível de dificuldade e número de questões desejado.
